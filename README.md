@@ -1,4 +1,4 @@
-# Fix Pterodactyl Extension Installation Permissions (PHP 8.4)
+# Pterodactyl Permissions Troubleshooting ~ (PHP 8.4)
 
 ## Error
 
